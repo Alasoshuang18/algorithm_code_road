@@ -1,0 +1,1 @@
+{"name":"Local: P3392 涂条纹","url":"/home/hispark/project/helloworld/枚举/P3392 涂条纹.cpp","tests":[{"id":1744945794780,"input":"4 5\nWRWRW\nBWRWB\nWRWRW\nRWBWR","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/枚举/P3392 涂条纹.cpp","group":"local","local":true}

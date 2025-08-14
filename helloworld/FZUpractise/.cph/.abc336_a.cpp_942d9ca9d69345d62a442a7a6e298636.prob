@@ -1,0 +1,1 @@
+{"name":"Local: abc336_a","url":"/home/hispark/project/helloworld/FZUpractise/abc336_a.cpp","tests":[{"id":1737425556626,"input":"3","output":"Looong\n"},{"id":1737425571555,"input":"1\n","output":"Long"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/FZUpractise/abc336_a.cpp","group":"local","local":true}

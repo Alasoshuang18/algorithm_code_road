@@ -1,0 +1,1 @@
+{"name":"Local: map","url":"/home/hispark/project/helloworld/starryCoding集训/Class_2/map.cpp","tests":[{"id":1742291276771,"input":"2\n3\nred\nred\nblue\n5\na\nb\ne\nd\ne","output":"red 2\nblue 1\na 1\nb 1\ne 2\nd 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/starryCoding集训/Class_2/map.cpp","group":"local","local":true}

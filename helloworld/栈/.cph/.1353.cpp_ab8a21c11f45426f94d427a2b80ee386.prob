@@ -1,0 +1,1 @@
+{"name":"Local: 1353","url":"/home/hispark/project/helloworld/栈/1353.cpp","tests":[{"id":1740226593492,"input":"2*(x+y)/(1-x)@","output":"YES"},{"id":1740226869763,"input":"(25+x)*(a*(a+b+b)@","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/栈/1353.cpp","group":"local","local":true}

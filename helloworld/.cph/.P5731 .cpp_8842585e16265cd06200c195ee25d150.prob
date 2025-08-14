@@ -1,0 +1,1 @@
+{"name":"Local: P5731 ","url":"/home/hispark/project/helloworld/P5731 .cpp","tests":[{"id":1733540597365,"input":"4","output":"  1  2  3  4\n 12 13 14  5\n 11 16 15  6\n 10  9  8  7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/P5731 .cpp","group":"local","local":true}

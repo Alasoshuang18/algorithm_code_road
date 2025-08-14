@@ -1,0 +1,1 @@
+{"name":"Local: stack","url":"/home/hispark/project/helloworld/.vscode/STL/stack.cpp","tests":[{"id":1733744639019,"input":"3\n3 1 2","output":"Yes"},{"id":1733744643394,"input":"4\n3 4 1 2","output":"No"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/.vscode/STL/stack.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: P1480","url":"/home/hispark/project/helloworld/.vscode/string/P1480.cpp","tests":[{"id":1735384169222,"input":"5\nLi\nWang\nZha\nJin\nXian","output":"Jin"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/.vscode/string/P1480.cpp","group":"local","local":true}

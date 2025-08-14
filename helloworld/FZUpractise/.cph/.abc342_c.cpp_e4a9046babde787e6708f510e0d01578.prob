@@ -1,0 +1,1 @@
+{"name":"Local: abc342_c","url":"/home/hispark/project/helloworld/FZUpractise/abc342_c.cpp","tests":[{"id":1737474910077,"input":"7\natcoder\n4\nr a\nt e\nd v\na r\n","output":"recover\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/FZUpractise/abc342_c.cpp","group":"local","local":true}

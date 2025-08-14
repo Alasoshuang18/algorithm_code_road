@@ -1,0 +1,1 @@
+{"name":"Local: 1410","url":"/home/hispark/project/helloworld/ditui/1410.cpp","tests":[{"id":1738508008956,"input":"5\n7\n3 8\n8 1 0\n2 7 4 4\n4 5 2 6 5","output":"5,2->4,2->3,1->2,1->1,1\n30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/ditui/1410.cpp","group":"local","local":true}

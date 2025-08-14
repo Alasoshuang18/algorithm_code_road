@@ -1,0 +1,1 @@
+{"name":"Local: www","url":"/home/hispark/project/helloworld/www.cpp","tests":[{"id":1723642879336,"input":"3","output":"This is a prime.\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/www.cpp","group":"local","local":true}

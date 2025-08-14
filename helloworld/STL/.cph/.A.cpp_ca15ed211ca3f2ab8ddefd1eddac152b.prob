@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/hispark/project/helloworld/STL/A.cpp","tests":[{"id":1737726140418,"input":"qwe\nasd\nzxc\n","output":"e q w\na d s\nc x z\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/STL/A.cpp","group":"local","local":true}

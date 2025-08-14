@@ -1,0 +1,1 @@
+{"name":"Local: P1404 平均数","url":"/home/hispark/project/helloworld/二分/P1404 平均数.cpp","tests":[{"id":1745499460493,"input":"10 6\n6\n4\n2\n10\n3\n8\n5\n9\n4\n1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/二分/P1404 平均数.cpp","group":"local","local":true}

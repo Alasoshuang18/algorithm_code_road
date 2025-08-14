@@ -1,0 +1,1 @@
+{"name":"Local: banzi(chafen))","url":"/home/hispark/project/helloworld/.vscode/前缀和和差分训练/banzi(chafen)).cpp","tests":[{"id":1731469803882,"input":"6 3\n1 2 2 1 2 1\n1 3 1\n3 5 1\n1 6 1","output":"3 4 5 3 4 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/.vscode/前缀和和差分训练/banzi(chafen)).cpp","group":"local","local":true}

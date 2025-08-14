@@ -1,0 +1,1 @@
+{"name":"Local: stack2","url":"/home/hispark/project/helloworld/.vscode/STL/stack2.cpp","tests":[{"id":1733746074378,"input":"3\n)()(\n([])\n[]{()}","output":"NO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/.vscode/STL/stack2.cpp","group":"local","local":true}

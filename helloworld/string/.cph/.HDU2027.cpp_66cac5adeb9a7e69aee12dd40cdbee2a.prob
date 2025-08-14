@@ -1,0 +1,1 @@
+{"name":"Local: HDU2027","url":"/home/hispark/project/helloworld/string/HDU2027.cpp","tests":[{"id":1737817627538,"input":"2\naeiou\nmy name is ignatius\n","output":"a:1\ne:1\ni:1\no:1\nu:1\n\na:2\ne:1\ni:3\no:0\nu:1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/string/HDU2027.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: priority_queue","url":"/home/hispark/project/helloworld/starryCoding集训/Class_2/priority_queue.cpp","tests":[{"id":1742280634648,"input":"3\n1 5\n1 7\n2","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/starryCoding集训/Class_2/priority_queue.cpp","group":"local","local":true}

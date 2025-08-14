@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/home/hispark/project/helloworld/.vscode/huixingplan/num1/A.cpp","tests":[{"id":1735696241272,"input":"105 10 20","output":"205"},{"id":1735696257502,"input":"1000 500 100","output":"1000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/.vscode/huixingplan/num1/A.cpp","group":"local","local":true}

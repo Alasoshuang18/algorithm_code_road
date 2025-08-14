@@ -1,0 +1,1 @@
+{"name":"Local: P5725","url":"/home/hispark/project/helloworld/luogu/P5725.cpp","tests":[{"id":1733235047333,"input":"4","output":"01020304\n05060708\n09101112\n13141516\n\n      01\n    0203\n  040506\n07080910"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hispark/project/helloworld/luogu/P5725.cpp","group":"local","local":true}
